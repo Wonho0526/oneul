@@ -1,0 +1,5 @@
+--main-font: "Noto Sans KR", sans-serif;
+--sub-font: "Noto Serif KR", serif;
+--main-color: #c27a34;  /* rgb(194,122,52) */
+
+
